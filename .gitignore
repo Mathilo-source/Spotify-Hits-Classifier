@@ -1,0 +1,17 @@
+.venv/
+venv/
+
+__pycache__/
+*.py[cod]
+
+.env
+
+*.ipynb_checkpoints/
+*.ipynb
+
+*.log
+
+#can be reproduced from running the scripts
+clean_df.csv
+feature_engineered_df.csv
+*.csv
